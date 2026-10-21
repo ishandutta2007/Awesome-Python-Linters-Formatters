@@ -1,6 +1,6 @@
 # Awesome-Python-Linters-Formatters
 
-# Top Python Linters & Formatters Ecosystem
+## Top Python Linters & Formatters Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Rust-Powered Speed, Opinionated Formatting & Deep Static Analysis*  
